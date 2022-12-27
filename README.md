@@ -1,6 +1,6 @@
 # MoEC
 
-Code for paper - MoEC: Mixture of Expert Clusters
+Code for paper - MoEC: Mixture of Expert Clusters https://arxiv.org/abs/2207.09094
 
 Please follow [fairseq document](https://fairseq.readthedocs.io/en/latest/getting_started.html#training-a-new-model) to data pre-processing.
 
