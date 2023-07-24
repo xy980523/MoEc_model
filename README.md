@@ -1,6 +1,8 @@
 # MoEC
 
-Code for paper - MoEC: Mixture of Expert Clusters https://arxiv.org/abs/2207.09094
+Code for paper - MoEC: Mixture of Expert Clusters https://arxiv.org/abs/2207.09094     
+accepted in AAAI 2023   https://ojs.aaai.org/index.php/AAAI/article/view/26617/26389
+
 
 Please follow [fairseq document](https://fairseq.readthedocs.io/en/latest/getting_started.html#training-a-new-model) to data pre-processing.
 
